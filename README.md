@@ -2,7 +2,7 @@
 
 Porject during first year @ EPFL (CS_108 course) : Javass
 
-Eloi GARANDEL / Kilian d'Eternod
+Eloi Garandel / Kilian d'Eternod
 
 Create a Jass (Swiss card game) game using Java.
 
