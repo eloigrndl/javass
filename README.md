@@ -1,6 +1,6 @@
 # Javass
 
-Porject during first year @ EPFL ([CS_108 course](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108)) : Javass
+First year project @ EPFL ([CS_108 course](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108)) : Javass
 
 Eloi Garandel / Kilian d'Eternod
 
